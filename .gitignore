@@ -14,4 +14,4 @@ typings/
 .nyc_output/
 .vscode
 .git
-.dist/
+dist/

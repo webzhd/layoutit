@@ -1,9 +1,10 @@
 import React from 'react'
+import {Button} from 'antd'
 
 export default class App extends React.Component {
     render() {
         return (<>
-            react
+            <Button type="primary">antd button</Button>
         </>)
     }
 }
